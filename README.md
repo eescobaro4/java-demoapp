@@ -1,4 +1,4 @@
-# Java - Demo Web Application - PRUEBA WEBHOOK
+# Java - Demo Web Application - PRUEBA
 
 This is a simple Java web app built using Spring Boot and OpenJDK 11.
 
